@@ -10,7 +10,7 @@ The user uses the up, down, left, and right arrow keys to move the snake. The sn
 a block size bigger everytime it eats a blue circle snack.
 If snake touches any of the 4 sides or itself, the snake dies and the game is over.
 
-### Highscore Tracking
+### Highscore tracking
 highscore.txt file keeps track of the highest score achieved by the user.
 It updates the highscore in the txt file when the user gets higher score than the
 previous high score.
